@@ -1,4 +1,4 @@
-Team Members: Audrey Pino & Tony Czajka
+# Team Members: Audrey Pino & Tony Czajka
 import socket
 import struct
 import os
